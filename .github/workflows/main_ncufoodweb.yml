@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'NCUfoodWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F81A9A568AC4CE4BCFB030EACEC6A9D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A13F27894C9B443C869A1084EBFED90E }}
